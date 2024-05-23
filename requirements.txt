@@ -1,0 +1,6 @@
+colorama
+jinja2
+requests
+scapy
+fpdf2
+google
